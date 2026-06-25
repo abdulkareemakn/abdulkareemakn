@@ -4,20 +4,20 @@
 
 ## 🔭 I'm currently working on
 
-- Building my personal portfolio site
+- Building my personal portfolio [site](https://abdulkareem.codes)
+- Running my personal dev [blog](https://abdulkareem.is-a.dev)
+- An E-Commerce Website [Ayak](https://ayak-storefront.pages.dev)
 
 ## 🌱 I'm currently learning
 
 - Hardening self-hosted setups (security, backups, access control)
 - Managing infrastructure with automation tools
 - Improving frontend skills for a better personal web presence
-- Making my dotfiles more portable and maintainable
 
 ## 👀 I'm interested in
 
 Self-hosting and privacy-respecting tools
 Minimalist, keyboard-driven workflows
-Linux customization and system optimization
 Automation and scripting with Python
 Open source software and indie web projects
 
@@ -25,14 +25,14 @@ Open source software and indie web projects
 
 <!-- ⚠️ Important: Replace 'abdulkareemakn' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulkareemakn&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="./profile/stats.svg"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'abdulkareemakn' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkareemakn&layout=compact&langs_count=10&theme=default"/>
+  <img height="180em" src="./profile/langs.svg"/>
 </div>
 
 ## 🔥 Contribution Streak
