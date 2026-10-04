@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="543" height="574" viewBox="0 0 543 574" role="img" aria-label="Terminal card: Abdul Kareem, TypeScript and Python developer">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:13px}</style>
+<rect x="0.5" y="0.5" width="542" height="573" rx="6" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 6.5A6 6 0 0 1 6.5 0.5H536.5A6 6 0 0 1 542.5 6.5V26H0.5Z" fill="#161b22"/>
+<line x1="0.5" y1="26" x2="542.5" y2="26" stroke="#30363d"/>
+<circle cx="18" cy="13" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="13" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="13" r="5" fill="#27c93f"/>
+<text x="18.00" y="60" fill="#e6edf3" xml:space="preserve" font-weight="600">abdulkareem@dev</text>
+<text x="135.00" y="60" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="142.80" y="60" fill="#8b949e" xml:space="preserve">----------------------------------------------</text>
+<text x="18.00" y="80" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="80" fill="#ffa657" xml:space="preserve" font-weight="600">OS</text>
+<text x="49.20" y="80" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="64.80" y="80" fill="#8b949e" xml:space="preserve">................................................</text>
+<text x="439.20" y="80" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="447.00" y="80" fill="#a5d6ff" xml:space="preserve">Arch Linux</text>
+<text x="18.00" y="100" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="100" fill="#ffa657" xml:space="preserve" font-weight="600">Uptime</text>
+<text x="80.40" y="100" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="96.00" y="100" fill="#8b949e" xml:space="preserve">..............................................</text>
+<text x="454.80" y="100" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="462.60" y="100" fill="#a5d6ff" xml:space="preserve">20 years</text>
+<text x="18.00" y="120" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="120" fill="#ffa657" xml:space="preserve" font-weight="600">IDE</text>
+<text x="57.00" y="120" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="72.60" y="120" fill="#8b949e" xml:space="preserve">...................................................</text>
+<text x="470.40" y="120" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="478.20" y="120" fill="#a5d6ff" xml:space="preserve">Neovim</text>
+<text x="18.00" y="160" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="160" fill="#ffa657" xml:space="preserve" font-weight="600">Languages.Programming</text>
+<text x="197.40" y="160" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="213.00" y="160" fill="#8b949e" xml:space="preserve">............</text>
+<text x="306.60" y="160" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="314.40" y="160" fill="#a5d6ff" xml:space="preserve">Python, TypeScript, Go, C++</text>
+<text x="18.00" y="180" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="180" fill="#ffa657" xml:space="preserve" font-weight="600">Languages.Computer</text>
+<text x="174.00" y="180" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="189.60" y="180" fill="#8b949e" xml:space="preserve">..............</text>
+<text x="298.80" y="180" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="306.60" y="180" fill="#a5d6ff" xml:space="preserve">HTML, CSS, JSON, Typst, YAML</text>
+<text x="18.00" y="200" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="200" fill="#ffa657" xml:space="preserve" font-weight="600">Languages.Real</text>
+<text x="142.80" y="200" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="158.40" y="200" fill="#8b949e" xml:space="preserve">.......................................</text>
+<text x="462.60" y="200" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="470.40" y="200" fill="#a5d6ff" xml:space="preserve">English</text>
+<text x="18.00" y="240" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="240" fill="#ffa657" xml:space="preserve" font-weight="600">Hobbies.Software</text>
+<text x="158.40" y="240" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="174.00" y="240" fill="#8b949e" xml:space="preserve">...........................</text>
+<text x="384.60" y="240" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="392.40" y="240" fill="#a5d6ff" xml:space="preserve">Minecraft Modding</text>
+<text x="18.00" y="260" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="260" fill="#ffa657" xml:space="preserve" font-weight="600">Hobbies.Hardware</text>
+<text x="158.40" y="260" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="174.00" y="260" fill="#8b949e" xml:space="preserve">..............................</text>
+<text x="408.00" y="260" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="415.80" y="260" fill="#a5d6ff" xml:space="preserve">Homelab, Chess</text>
+<text x="18.00" y="300" fill="#e6edf3" xml:space="preserve" font-weight="600">- Contact</text>
+<text x="88.20" y="300" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="96.00" y="300" fill="#8b949e" xml:space="preserve">----------------------------------------------------</text>
+<text x="18.00" y="320" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="320" fill="#ffa657" xml:space="preserve" font-weight="600">Website</text>
+<text x="88.20" y="320" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="103.80" y="320" fill="#8b949e" xml:space="preserve">.......................................</text>
+<text x="408.00" y="320" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="415.80" y="320" fill="#a5d6ff" xml:space="preserve">abdulkareem.me</text>
+<text x="18.00" y="340" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="340" fill="#ffa657" xml:space="preserve" font-weight="600">Email</text>
+<text x="72.60" y="340" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="88.20" y="340" fill="#8b949e" xml:space="preserve">......................................</text>
+<text x="384.60" y="340" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="392.40" y="340" fill="#a5d6ff" xml:space="preserve">ak@abdulkareem.me</text>
+<text x="18.00" y="360" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="360" fill="#ffa657" xml:space="preserve" font-weight="600">GitHub</text>
+<text x="80.40" y="360" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="96.00" y="360" fill="#8b949e" xml:space="preserve">........................................</text>
+<text x="408.00" y="360" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="415.80" y="360" fill="#a5d6ff" xml:space="preserve">abdulkareemakn</text>
+<text x="18.00" y="380" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="380" fill="#ffa657" xml:space="preserve" font-weight="600">LinkedIn</text>
+<text x="96.00" y="380" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="111.60" y="380" fill="#8b949e" xml:space="preserve">..................................</text>
+<text x="376.80" y="380" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="384.60" y="380" fill="#a5d6ff" xml:space="preserve">abdul-kareem-nasir</text>
+<text x="18.00" y="400" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="400" fill="#ffa657" xml:space="preserve" font-weight="600">Discord</text>
+<text x="88.20" y="400" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="103.80" y="400" fill="#8b949e" xml:space="preserve">.............................................</text>
+<text x="454.80" y="400" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="462.60" y="400" fill="#a5d6ff" xml:space="preserve">tmtaxman</text>
+<text x="18.00" y="440" fill="#e6edf3" xml:space="preserve" font-weight="600">- GitHub Stats</text>
+<text x="127.20" y="440" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="135.00" y="440" fill="#8b949e" xml:space="preserve">-----------------------------------------------</text>
+<text x="18.00" y="460" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="460" fill="#ffa657" xml:space="preserve" font-weight="600">Repos</text>
+<text x="72.60" y="460" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="88.20" y="460" fill="#8b949e" xml:space="preserve">...................................</text>
+<text x="361.20" y="460" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="369.00" y="460" fill="#a5d6ff" xml:space="preserve">25 {Contributed: 49}</text>
+<text x="18.00" y="480" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="480" fill="#ffa657" xml:space="preserve" font-weight="600">Stars</text>
+<text x="72.60" y="480" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="88.20" y="480" fill="#8b949e" xml:space="preserve">......................................................</text>
+<text x="509.40" y="480" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="517.20" y="480" fill="#a5d6ff" xml:space="preserve">1</text>
+<text x="18.00" y="500" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="500" fill="#ffa657" xml:space="preserve" font-weight="600">Commits</text>
+<text x="88.20" y="500" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="103.80" y="500" fill="#8b949e" xml:space="preserve">................................................</text>
+<text x="478.20" y="500" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="486.00" y="500" fill="#a5d6ff" xml:space="preserve">1,390</text>
+<text x="18.00" y="520" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="520" fill="#ffa657" xml:space="preserve" font-weight="600">Followers</text>
+<text x="103.80" y="520" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="119.40" y="520" fill="#8b949e" xml:space="preserve">..................................................</text>
+<text x="509.40" y="520" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="517.20" y="520" fill="#a5d6ff" xml:space="preserve">2</text>
+<text x="18.00" y="540" fill="#e6edf3" xml:space="preserve">  </text>
+<text x="33.60" y="540" fill="#ffa657" xml:space="preserve" font-weight="600">Lines of Code on GitHub</text>
+<text x="213.00" y="540" fill="#e6edf3" xml:space="preserve">: </text>
+<text x="228.60" y="540" fill="#8b949e" xml:space="preserve">...</text>
+<text x="252.00" y="540" fill="#e6edf3" xml:space="preserve"> </text>
+<text x="259.80" y="540" fill="#a5d6ff" xml:space="preserve">1,281,593 (</text>
+<text x="345.60" y="540" fill="#3fb950" xml:space="preserve">1,425,703++</text>
+<text x="431.40" y="540" fill="#a5d6ff" xml:space="preserve">, </text>
+<text x="447.00" y="540" fill="#f85149" xml:space="preserve">144,110--</text>
+<text x="517.20" y="540" fill="#a5d6ff" xml:space="preserve">)</text>
+</svg>

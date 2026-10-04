@@ -2,34 +2,11 @@
 
 **TypeScript and Python developer who likes owning the whole stack — from the code to the homelab it runs on.**
 
-<!-- Terminal card: regenerate with `pnpm dlx abdulkareem` -->
-```text
-abdulkareem@dev ----------------------------------------------
-  OS: ................................................ Arch Linux
-  Uptime: .............................................. 20 years
-  IDE: ................................................... Neovim
+<div align="center">
 
-  Languages.Programming: ............ Python, TypeScript, Go, C++
-  Languages.Computer: .............. HTML, CSS, JSON, Typst, YAML
-  Languages.Real: ....................................... English
+<img src="./profile/card.svg" alt="Terminal card: Abdul Kareem, TypeScript and Python developer" width="620" />
 
-  Hobbies.Software: ........................... Minecraft Modding
-  Hobbies.Hardware: .............................. Homelab, Chess
-
-- Contact ----------------------------------------------------
-  Website: ....................................... abdulkareem.me
-  Email: ...................................... ak@abdulkareem.me
-  GitHub: ........................................ abdulkareemakn
-  LinkedIn: .................................. abdul-kareem-nasir
-  Discord: ............................................. tmtaxman
-
-- GitHub Stats -----------------------------------------------
-  Repos: ................................... 25 {Contributed: 49}
-  Stars: ...................................................... 1
-  Commits: ................................................ 1,390
-  Followers: .................................................. 2
-  Lines of Code on GitHub: ... 1,281,593 (1,425,703++, 144,110--)
-```
+</div>
 
 ## 📊 GitHub Stats
 
