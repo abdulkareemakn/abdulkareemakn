@@ -1,77 +1,69 @@
-# Hi 👋, I'm Abdul Kareem
+# Hi, I'm Abdul Kareem
 
-**I'm a self-hosting enthusiast and Arch Linux power user (iusearchbtw). I enjoy building efficient workflows, automating tasks with Python, and exploring open source tools — from minimalist Neovim configs to full-blown homelab setups. I like having full control over my systems.**
+**TypeScript and Python developer who likes owning the whole stack — from the code to the homelab it runs on.**
 
-## 🔭 I'm currently working on
+<!-- Terminal card: regenerate with `pnpm dlx abdulkareem` -->
+```text
+abdulkareem@dev ----------------------------------------------
+  OS: ................................................ Arch Linux
+  Uptime: .............................................. 20 years
+  IDE: ................................................... Neovim
 
-- Building my personal portfolio [site](https://abdulkareem.codes)
-- Running my personal dev [blog](https://abdulkareem.is-a.dev)
-- An E-Commerce Website [Ayak](https://ayak-storefront.pages.dev)
+  Languages.Programming: ............ Python, TypeScript, Go, C++
+  Languages.Computer: .............. HTML, CSS, JSON, Typst, YAML
+  Languages.Real: ....................................... English
 
-## 🌱 I'm currently learning
+  Hobbies.Software: ........................... Minecraft Modding
+  Hobbies.Hardware: .............................. Homelab, Chess
 
-- Hardening self-hosted setups (security, backups, access control)
-- Managing infrastructure with automation tools
-- Improving frontend skills for a better personal web presence
+- Contact ----------------------------------------------------
+  Website: ....................................... abdulkareem.me
+  Email: ...................................... ak@abdulkareem.me
+  GitHub: ........................................ abdulkareemakn
+  LinkedIn: .................................. abdul-kareem-nasir
+  Discord: ............................................. tmtaxman
 
-## 👀 I'm interested in
-
-Self-hosting and privacy-respecting tools
-Minimalist, keyboard-driven workflows
-Automation and scripting with Python
-Open source software and indie web projects
+- GitHub Stats -----------------------------------------------
+  Repos: ................................... 25 {Contributed: 49}
+  Stars: ...................................................... 1
+  Commits: ................................................ 1,390
+  Followers: .................................................. 2
+  Lines of Code on GitHub: ... 1,281,593 (1,425,703++, 144,110--)
+```
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'abdulkareemakn' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="./profile/stats.svg"/>
 </div>
 
-## 🔝 Most Used Languages
+## 💻 Tech Stack
 
-<!-- ⚠️ Important: Replace 'abdulkareemakn' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="./profile/langs.svg"/>
-</div>
+### 👨‍💻 Languages
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+### 🧰 Tools
+
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-9370DB?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'abdulkareemakn' with your actual GitHub username in the URL below -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkareemakn&theme=default&hide_border=false" />
 </div>
 
-## 💻 Tech Stack
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/SQLite-4169e1?style=for-the-badge&logo=sqlite&logoColor=white" /> 
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
-
-## 🌐 Socials
+## 🌐 Elsewhere
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-kareem-nasir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/notabdulkareem) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abdulkareemakn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-kareem-nasir) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/notabdulkareem) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/tmtaxman) [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white)](https://abdulkareem.is-a.dev)
 
 </div>
 
-## 📫 How to Reach Me
+## 📫 How to reach me
 
-- 📧 Email: [me@abdulkareem.codes](mailto:me@abdulkareem.codes)
-
----
-⭐️ From [Abdul Kareem](https://github.com/abdulkareemakn)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abdulkareemakn/count.svg" alt="Visitor Count" />
-</div>
+- 📧 Email — [ak@abdulkareem.me](mailto:ak@abdulkareem.me)
+- 🌐 Website — [abdulkareem.me](https://abdulkareem.me)
+- 📝 Blog — [abdulkareem.is-a.dev](https://abdulkareem.is-a.dev)
+- 💬 Discord — `tmtaxman`
