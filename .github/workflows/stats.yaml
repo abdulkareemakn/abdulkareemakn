@@ -27,14 +27,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate terminal card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           corepack enable
-          FORCE_COLOR=3 pnpm dlx abdulkareem < /dev/null | node scripts/render-card.mjs profile/card.svg
+          node scripts/fetch-stats.mjs --lines > stats.json
+          FORCE_COLOR=3 pnpm dlx abdulkareem < /dev/null \
+            | node scripts/render-card.mjs profile/card.svg --stats stats.json --overrides card-overrides.json
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/card.svg profile/stats.svg
           git commit -m "Update README cards [@bot] [skip ci]" || exit 0
           git push
