@@ -28,7 +28,11 @@ jobs:
 
       - name: Generate terminal card
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN is an installation token, which GitHub's API refuses
+          # for viewer-scoped endpoints. GH_PAT, if the repository defines it,
+          # is a user token and unlocks the contributed-repo row; without it the
+          # card still renders, just without that figure.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: |
           corepack enable
           node scripts/fetch-stats.mjs --lines > stats.json

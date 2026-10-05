@@ -12,6 +12,10 @@
 // one, but at 60 requests an hour, and the line-count rollup needs far more
 // than that, so a token is required for --lines.
 //
+// A GitHub Actions GITHUB_TOKEN is enough for everything except the
+// contributed-repo count, which is scoped to whoever the token acts as. Point
+// GITHUB_TOKEN at a user token to get that row too; see contributedCount.
+//
 // --lines walks every commit on every default branch, which costs one GraphQL
 // request per 100 commits. It is off by default because the daily workflow
 // should not pay for it on every run.
@@ -97,16 +101,48 @@ async function userId() {
 /**
  * Repositories the user can see through collaboration or org membership.
  * The card shows this as the "Contributed" figure next to the repo count.
+ *
+ * Affiliations are resolved against the *viewer*, so this only describes the
+ * account when the token acts as that user. The workflow's GITHUB_TOKEN is a
+ * GitHub App installation token, whose viewer is the app rather than the
+ * account, and the REST equivalent (/user/repos) rejects it outright with 403.
+ * So the viewer is resolved first and the figure is dropped when it does not
+ * match: an understated count is better than one that silently describes the
+ * wrong actor.
  */
 async function contributedCount() {
-  let total = 0;
-  for (let page = 1; ; page++) {
-    const batch = await api(
-      `/user/repos?affiliation=owner,collaborator,organization_member&per_page=100&page=${page}`,
-    );
-    total += batch.length;
-    if (batch.length < 100) return total;
+  const query = `
+    query($login: String!) {
+      viewer { login }
+      user(login: $login) {
+        repositories(
+          first: 1,
+          affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]
+        ) { totalCount }
+      }
+    }
+  `;
+
+  let data;
+  try {
+    data = await graphql(query, { login: USERNAME });
+  } catch (error) {
+    // Affiliation totals are the only viewer-scoped figure here, so a failure
+    // costs one card row rather than the whole run.
+    process.stderr.write(`warning: contributed count unavailable: ${error.message}\n`);
+    return null;
   }
+
+  const viewer = data.viewer?.login;
+  if (viewer !== USERNAME) {
+    process.stderr.write(
+      `warning: token acts as ${viewer ?? "no identifiable user"}, not ${USERNAME}; ` +
+        "skipping the contributed count\n",
+    );
+    return null;
+  }
+
+  return data.user.repositories.totalCount;
 }
 
 async function profile() {
@@ -167,7 +203,10 @@ const authored = owned.reduce((total, node) => {
 // dumb display strings keyed by their field label.
 const grouped = new Intl.NumberFormat("en-US");
 const stats = {
-  Repos: `${owned.length} {Contributed: ${contributed}}`,
+  Repos:
+    contributed === null
+      ? String(owned.length)
+      : `${owned.length} {Contributed: ${contributed}}`,
   Stars: String(owned.reduce((total, node) => total + node.stargazerCount, 0)),
   Followers: String(account.followers),
   Commits: grouped.format(authored),
