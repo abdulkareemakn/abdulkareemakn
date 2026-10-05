@@ -8,6 +8,12 @@ on:
     branches:
       - main
 
+# Both a push to main and the daily schedule regenerate the same files. Without
+# this, overlapping runs race and the loser's `git push` is rejected.
+concurrency:
+  group: stats-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
