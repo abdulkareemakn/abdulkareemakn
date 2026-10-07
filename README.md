@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Languages
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img height="30" src="./assets/typescript.svg" alt="TypeScript" /> <img height="30" src="./assets/python.svg" alt="Python" /> <img height="30" src="./assets/go.svg" alt="Go" /> <img height="30" src="./assets/c++.svg" alt="C++" />
 
 ### 🧰 Tools
 
