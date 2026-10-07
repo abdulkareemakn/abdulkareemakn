@@ -58,6 +58,6 @@
 
 <div align="center">
 
-<a href="https://abdulkareem.me"><img height="60" src="./assets/website.svg" alt="Website" /></a> <a href="https://abdulkareem.is-a.dev"><img height="60" src="./assets/astro.svg" alt="Blog" /></a> <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="60" src="./assets/linkedin.svg" alt="LinkedIn" /></a> <a href="https://x.com/notabdulkareem"><img height="60" src="./assets/x.svg" alt="X" /></a> <a href="https://discord.com/users/tmtaxman"><img height="60" src="./assets/discord.svg" alt="Discord" /></a> <a href="mailto:ak@abdulkareem.me"><img height="60" src="./assets/email.svg" alt="Email" /></a>
+<a href="https://abdulkareem.me"><img height="60" src="./assets/website.svg" alt="Website" /></a> <a href="https://abdulkareem.is-a.dev"><img height="60" src="./assets/blog.svg" alt="Blog" /></a> <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="60" src="./assets/linkedin.svg" alt="LinkedIn" /></a> <a href="https://x.com/notabdulkareem"><img height="60" src="./assets/x.svg" alt="X" /></a> <a href="https://discord.com/users/tmtaxman"><img height="60" src="./assets/discord.svg" alt="Discord" /></a> <a href="mailto:ak@abdulkareem.me"><img height="60" src="./assets/email.svg" alt="Email" /></a>
 
 </div>
