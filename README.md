@@ -54,17 +54,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkareemakn&theme=default&hide_border=false" />
 </div>
 
-## 🌐 Elsewhere
+## 📬 Contact / Links
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-kareem-nasir) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/notabdulkareem) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/tmtaxman) [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=astro&logoColor=white)](https://abdulkareem.is-a.dev)
+<a href="https://abdulkareem.me"><img height="60" src="./assets/website.svg" alt="Website" /></a> <a href="https://abdulkareem.is-a.dev"><img height="60" src="./assets/astro.svg" alt="Blog" /></a> <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="60" src="./assets/linkedin.svg" alt="LinkedIn" /></a> <a href="https://x.com/notabdulkareem"><img height="60" src="./assets/x.svg" alt="X" /></a> <a href="https://discord.com/users/tmtaxman"><img height="60" src="./assets/discord.svg" alt="Discord" /></a> <a href="mailto:ak@abdulkareem.me"><img height="60" src="./assets/email.svg" alt="Email" /></a>
 
 </div>
-
-## 📫 How to reach me
-
-- 📧 Email — [ak@abdulkareem.me](mailto:ak@abdulkareem.me)
-- 🌐 Website — [abdulkareem.me](https://abdulkareem.me)
-- 📝 Blog — [abdulkareem.is-a.dev](https://abdulkareem.is-a.dev)
-- 💬 Discord — `tmtaxman`
