@@ -34,7 +34,7 @@
 
 ### Cloud & Hosting
 
-<img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" /> <img height="60" src="./assets/google-cloud.svg" alt="Google Cloud" /> <img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" /> <img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" /> <img height="60" src="./assets/railway.svg" alt="Railway" /> <img height="60" src="./assets/render.svg" alt="Render" /> <img height="60" src="./assets/alchemy.svg" alt="Alchemy" />
+<img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" /> <img height="60" src="./assets/google-cloud.svg" alt="Google Cloud" /> <img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" /> <img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" /> <img height="60" src="./assets/railway.svg" alt="Railway" /> <img height="60" src="./assets/render.svg" alt="Render" />
 
 ### Editor & Terminal
 

@@ -1,1 +1,1 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>OpenCode</title><path fill="#000000" d="M22 24H2V0h20zM17 4.8H7v14.4h10z"/></svg>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>OpenCode</title><style>path { fill: #000000; } @media (prefers-color-scheme: dark) { path { fill: #ffffff; } }</style><path d="M22 24H2V0h20zM17 4.8H7v14.4h10z"/></svg>
