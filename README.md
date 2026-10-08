@@ -20,11 +20,11 @@
 
 ### Infrastructure
 
-<img height="60" src="./assets/docker.svg" alt="Docker" /> <img height="60" src="./assets/github-actions.svg" alt="GitHub Actions" /> <img height="60" src="./assets/caddy.svg" alt="Caddy" /> <img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" /> <img height="60" src="./assets/google-cloud.svg" alt="Google Cloud" /> <img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" /> <img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" /> <img height="60" src="./assets/railway.svg" alt="Railway" /> <img height="60" src="./assets/render.svg" alt="Render" />
+<img height="60" src="./assets/docker.svg" alt="Docker" /> <img height="60" src="./assets/github-actions.svg" alt="GitHub Actions" /> <img height="60" src="./assets/caddy.svg" alt="Caddy" /> <img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" /> <img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" /> <img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" /> <img height="60" src="./assets/railway.svg" alt="Railway" />
 
 ### Tooling
 
-<img height="60" src="./assets/git.svg" alt="Git" /> <img height="60" src="./assets/lefthook.svg" alt="Lefthook" /> <img height="60" src="./assets/pnpm.svg" alt="pnpm" /> <img height="60" src="./assets/bun.svg" alt="Bun" /> <img height="60" src="./assets/uv.svg" alt="uv" /> <img height="60" src="./assets/ruff.svg" alt="Ruff" /> <img height="60" src="./assets/oxc.svg" alt="Oxc" /> <img height="60" src="./assets/vite.svg" alt="Vite" /> <img height="60" src="./assets/neovim.svg" alt="Neovim" /> <img height="60" src="./assets/ghostty.svg" alt="Ghostty" /> <img height="60" src="./assets/zsh.svg" alt="Zsh" /> <img height="60" src="./assets/opencode.svg" alt="OpenCode" />
+<img height="60" src="./assets/git.svg" alt="Git" /> <img height="60" src="./assets/pnpm.svg" alt="pnpm" /> <img height="60" src="./assets/bun.svg" alt="Bun" /> <img height="60" src="./assets/uv.svg" alt="uv" /> <img height="60" src="./assets/ruff.svg" alt="Ruff" /> <img height="60" src="./assets/oxc.svg" alt="Oxc" /> <img height="60" src="./assets/vite.svg" alt="Vite" /> <img height="60" src="./assets/neovim.svg" alt="Neovim" /> <img height="60" src="./assets/ghostty.svg" alt="Ghostty" />
 
 ## 🔥 Contribution Streak
 
