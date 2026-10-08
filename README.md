@@ -12,19 +12,19 @@
 
 ### Languages
 
-<img height="60" src="./assets/typescript.svg" alt="TypeScript" /> <img height="60" src="./assets/python.svg" alt="Python" /> <img height="60" src="./assets/go.svg" alt="Go" /> <img height="60" src="./assets/c++.svg" alt="C++" />
+<img height="60" src="./assets/typescript.svg" alt="TypeScript" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/python.svg" alt="Python" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/go.svg" alt="Go" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/c++.svg" alt="C++" />
 
 ### Frameworks & Libraries
 
-<img height="60" src="./assets/react.svg" alt="React" /> <img height="60" src="./assets/vue.svg" alt="Vue" /> <img height="60" src="./assets/astro.svg" alt="Astro" /> <img height="60" src="./assets/tailwind.svg" alt="Tailwind" /> <img height="60" src="./assets/fastapi.svg" alt="FastAPI" /> <img height="60" src="./assets/tanstack.svg" alt="TanStack" /> <img height="60" src="./assets/hono.svg" alt="Hono" /> <img height="60" src="./assets/zod.svg" alt="Zod" /> <img height="60" src="./assets/drizzle.svg" alt="Drizzle" /> <img height="60" src="./assets/betterauth.svg" alt="Better Auth" />
+<img height="60" src="./assets/react.svg" alt="React" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/vue.svg" alt="Vue" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/astro.svg" alt="Astro" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/tailwind.svg" alt="Tailwind" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/fastapi.svg" alt="FastAPI" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/tanstack.svg" alt="TanStack" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/hono.svg" alt="Hono" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/zod.svg" alt="Zod" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/drizzle.svg" alt="Drizzle" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/betterauth.svg" alt="Better Auth" />
 
 ### Infrastructure
 
-<img height="60" src="./assets/docker.svg" alt="Docker" /> <img height="60" src="./assets/github-actions.svg" alt="GitHub Actions" /> <img height="60" src="./assets/caddy.svg" alt="Caddy" /> <img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" /> <img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" /> <img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" /> <img height="60" src="./assets/railway.svg" alt="Railway" />
+<img height="60" src="./assets/docker.svg" alt="Docker" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/github-actions.svg" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/caddy.svg" alt="Caddy" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/digitalocean.svg" alt="DigitalOcean" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/cloudflare-workers.svg" alt="Cloudflare Workers" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/cloudflare-pages.svg" alt="Cloudflare Pages" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/railway.svg" alt="Railway" />
 
 ### Tooling
 
-<img height="60" src="./assets/git.svg" alt="Git" /> <img height="60" src="./assets/pnpm.svg" alt="pnpm" /> <img height="60" src="./assets/bun.svg" alt="Bun" /> <img height="60" src="./assets/uv.svg" alt="uv" /> <img height="60" src="./assets/ruff.svg" alt="Ruff" /> <img height="60" src="./assets/oxc.svg" alt="Oxc" /> <img height="60" src="./assets/vite.svg" alt="Vite" /> <img height="60" src="./assets/neovim.svg" alt="Neovim" /> <img height="60" src="./assets/ghostty.svg" alt="Ghostty" />
+<img height="60" src="./assets/git.svg" alt="Git" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/pnpm.svg" alt="pnpm" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/bun.svg" alt="Bun" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/uv.svg" alt="uv" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/ruff.svg" alt="Ruff" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/oxc.svg" alt="Oxc" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/vite.svg" alt="Vite" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/neovim.svg" alt="Neovim" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/ghostty.svg" alt="Ghostty" />
 
 ## 🔥 Contribution Streak
 
