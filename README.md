@@ -2,19 +2,13 @@
 
 **TypeScript and Python developer who likes owning the whole stack — from the code to the homelab it runs on.**
 
-<div align="center">
-
-<img src="./profile/card.svg" alt="Terminal card: Abdul Kareem, TypeScript and Python developer" width="620" />
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="./profile/stats.svg"/>
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -57,7 +51,10 @@
 ## 📬 Contact / Links
 
 <div align="center">
-
-<a href="https://abdulkareem.me"><img height="32" src="./assets/website.svg" alt="Website" /></a> <a href="https://abdulkareem.is-a.dev"><img height="32" src="./assets/blog.svg" alt="Blog" /></a> <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="32" src="./assets/linkedin.svg" alt="LinkedIn" /></a> <a href="https://x.com/notabdulkareem"><img height="32" src="./assets/x.svg" alt="X" /></a> <a href="https://discord.com/users/tmtaxman"><img height="32" src="./assets/discord.svg" alt="Discord" /></a> <a href="mailto:ak@abdulkareem.me"><img height="32" src="./assets/email.svg" alt="Email" /></a>
-
+  <a href="https://abdulkareem.me"><img height="32" src="./assets/website.svg" alt="Website" /></a>
+  <a href="mailto:ak@abdulkareem.me"><img height="32" src="./assets/email.svg" alt="Email" /></a>
+  <a href="https://abdulkareem.is-a.dev"><img height="32" src="./assets/blog.svg" alt="Blog" /></a>
+  <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="32" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://x.com/notabdulkareem"><img height="32" src="./assets/x.svg" alt="X" /></a>
+  <a href="https://discord.com/users/tmtaxman"><img height="32" src="./assets/discord.svg" alt="Discord" /></a>
 </div>
