@@ -29,9 +29,10 @@
 # Links
 
 <div align="center">
-  <a href="https://abdulkareem.me"><img height="32" src="./assets/website.svg" alt="Website" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ak@abdulkareem.me"><img height="32" src="./assets/email.svg" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://abdulkareem.is-a.dev"><img height="32" src="./assets/blog.svg" alt="Blog" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://abdulkareem.me"><img height="24" src="./assets/website.svg" alt="" /> Portfolio</a> ·
+  <a href="mailto:ak@abdulkareem.me"><img height="24" src="./assets/email.svg" alt="" /> Email</a> ·
+  <a href="https://abdulkareem.is-a.dev"><img height="24" src="./assets/blog.svg" alt="" /> Blog</a>
+  <br><br>
   <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="32" src="./assets/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/notabdulkareem"><img height="32" src="./assets/x.svg" alt="X" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/tmtaxman"><img height="32" src="./assets/discord.svg" alt="Discord" /></a>
