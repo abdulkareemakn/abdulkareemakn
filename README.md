@@ -1,7 +1,5 @@
 # GitHub
 
-![473 commits in the past year and 17 pull requests](./profile/stats.svg)
-
 ## Tech Stack
 
 ### Languages
@@ -20,6 +18,15 @@
 
 <img height="60" src="./assets/git.svg" alt="Git" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/pnpm.svg" alt="pnpm" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/bun.svg" alt="Bun" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/uv.svg" alt="uv" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/ruff.svg" alt="Ruff" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/oxc.svg" alt="Oxc" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/vite.svg" alt="Vite" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/neovim.svg" alt="Neovim" />&nbsp;&nbsp;&nbsp;<img height="60" src="./assets/ghostty.svg" alt="Ghostty" />
 
+![GitHub activity: commits, pull requests, and contributions](./profile/stats.svg)
+
 ## Links
 
-[Website](https://abdulkareem.me) · [Email](mailto:ak@abdulkareem.me) · [Blog](https://abdulkareem.is-a.dev) · [LinkedIn](https://linkedin.com/in/abdul-kareem-nasir) · [X](https://x.com/notabdulkareem) · [Discord](https://discord.com/users/tmtaxman)
+<div align="center">
+  <a href="https://abdulkareem.me"><img height="32" src="./assets/website.svg" alt="Website" /></a>
+  <a href="mailto:ak@abdulkareem.me"><img height="32" src="./assets/email.svg" alt="Email" /></a>
+  <a href="https://abdulkareem.is-a.dev"><img height="32" src="./assets/blog.svg" alt="Blog" /></a>
+  <a href="https://linkedin.com/in/abdul-kareem-nasir"><img height="32" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://x.com/notabdulkareem"><img height="32" src="./assets/x.svg" alt="X" /></a>
+  <a href="https://discord.com/users/tmtaxman"><img height="32" src="./assets/discord.svg" alt="Discord" /></a>
+</div>
